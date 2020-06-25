@@ -1,4 +1,4 @@
-# 104 Maximum Depth of Binary Tree    
+# 50 Pow(x, n)    
 
 ## TAG
 * 快速幂
